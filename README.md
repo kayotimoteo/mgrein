@@ -1,6 +1,6 @@
 ### Hi there, I'm Matheus - aka [Grein] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmgrein&screen_name=ogreinreal)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ogreinreal?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmgrein&screen_name=ogreinreal)
 
 ## I'm a Developer, and Community Manager of discord server's!
 
