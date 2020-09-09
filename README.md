@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I drink literally every seven days of the week 🤣
 
 ### Spotify Playing 🎧
-[![Spotify](https://spotfy.mgrein.vercel.app/api/spotify)](https://open.spotify.com/user/l4ey8ixyv0708px7esvhdhk2y)
+[<img src="https://spotify-now-playingg.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/l4ey8ixyv0708px7esvhdhk2y)
 
 ### Connect with me:
 
